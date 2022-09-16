@@ -1,0 +1,13 @@
+var age = 25;
+console.log(age);
+age = true;
+console.log(age);
+var num = 25;
+console.log(num);
+// num = 'Ahmed';
+var mixed = [];
+mixed.push("ahmed");
+mixed.push(26);
+mixed.push(true);
+mixed.push({ name: "Ahmed", age: 25 });
+console.log(mixed);
